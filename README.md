@@ -1,4 +1,5 @@
-   Hola! Soy Fernando 
+   Hola! Soy Fernando<br/>
+   
 🌱  Desarrollador full stack con experiencia en marketing, fusionando creatividad y habilidades técnicas.<br>🤝  Comunicador efectivo, resolutor de problemas y gestor de proyectos con enfoque analítico.<br>💬  Aprovecho mi trayectoria en marketing para entender las necesidades del cliente y colaborar en equipos multidisciplinarios.
 
 
